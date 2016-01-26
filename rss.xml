@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Konspiracy Studios]]></title>
         <description><![CDATA[Konspiracy Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/konspiracystudios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 00:40:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 00:44:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/konspiracystudios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Konspiracy Studios is a boutique production + post company headed by Mike Greenberg.</p>]]></description>
-            <link>undefined07437406-0594-4090-a7d5-a23189bbc202/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf1934cb-864f-4e4c-9c0e-115d52690eb5.JPG">]]></description>
+            <link>https://thegrid.ai/konspiracystudios/07437406-0594-4090-a7d5-a23189bbc202/index.html</link>
             <guid isPermaLink="false">07437406-0594-4090-a7d5-a23189bbc202</guid>
-            <pubDate>Tue, 26 Jan 2016 00:39:53 GMT</pubDate>
+            <pubDate>Tue, 26 Jan 2016 00:44:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
